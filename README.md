@@ -1,2 +1,2 @@
-# html
-Practicing input and radio button in html
+# html form
+Practicing input, select and radio button in html
